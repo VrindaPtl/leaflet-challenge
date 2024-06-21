@@ -3,11 +3,14 @@
 ## Part 1: Create the Earthquake Visualisation
 # step 1:
 
-#Getting the dataset via USGS, that provides earthquake data in a number of different formats, updated every 5 minutes. https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-#Data Gathered from the past 30days.
-Import and visualise the data by doing the following:
+Getting the dataset via USGS, that provides earthquake data in a number of different formats, updated every 5 minutes. https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+Data Gathered from the past 30days.
 
 # Step 2:
+
+# Import and visualise the data by doing the following:
+
 Using Leaflet, create a map that plots all the earthquakes from the dataset based on their longitude and latitude.
 
 Data markers reflecting the magnitude of the earthquake by their size and the depth of the earthquake by colour. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in colour.
